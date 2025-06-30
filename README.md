@@ -41,7 +41,7 @@ User: 42
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/ujjwal1207/routerpage.git
+   git clone https://github.com/ujjwal1207/reactrouting.git
    cd routerpage
    ```
 
